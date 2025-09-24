@@ -1,4 +1,6 @@
-##👋 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+world)
+## Hi there ![Visitor Badge](https://komarev.com/ghpvc/?username=BrucerTao&repo=BrucerTao&color=green)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+world)
 
 ![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=dark)
 
