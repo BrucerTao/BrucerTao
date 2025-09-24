@@ -1,6 +1,7 @@
-## Hi there 👋 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+world)
+##👋 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+world)
 
-![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=dark)![](https://stats.justsong.cn/api/csdn?id=Elliot_2b&theme=dark)
+![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=dark)
+
 💻 Full-Stack Developer
 
 ## About Me
