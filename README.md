@@ -1,13 +1,27 @@
 ## Hi there 👋
 
-https://github.com/BrucerTao
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/BrucerTao&left_color=green&right_color=red)
-
-![](https://stats.justsong.cn/api/csdn?id=Elliot_2b)
-
 ![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=radical)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom;To;Bruce's;own;little;world)
+![](https://stats.justsong.cn/api/csdn?id=Elliot_2b&theme=dark)
+
+💻 Full-Stack Developer/
+
+## About Me
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+little+world;欢迎+来到+布鲁斯+的+小空间)
+
+- 🌱 I’m currently learning:Solidity,Go
+- 😄 hobby:🏸️Badminton🏀Basketball🚴Bicycle
+- ✈️ Globetrotter with travels to multiple countries🇨🇳🇭🇰🇯🇵
+
+## Work Exprience
+- Oct 2021 - Present:Senior Full-Stack Develper at AliYun. Hangzhou
+- Jul 2018 - Oct 2021:Junior Backend Developer at Macrosan Tech. Hangzhou
+
+
+## Connect
+- wechat[微信公众号 《布鲁斯手记》](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NDcyMDY3Ng==)
+- [布鲁斯的调调 CSDN](https://blog.csdn.net/Elliot_2b?spm=1000.2115.3001.5343)
+- [Mail](bruce9652@163.com)
 
 <!--
 **BrucerTao/BrucerTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +37,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning:   Solidity,Go
-- 💬 My WeChat Public Accout
-    -     《布鲁斯手记》
-    -     CSDN(https://blog.csdn.net/Elliot_2b?spm=1000.2115.3001.5343)
 
 
