@@ -1,6 +1,6 @@
 ## Hi there ![Visitor Badge](https://komarev.com/ghpvc/?username=BrucerTao&repo=BrucerTao&color=green)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcom+To+Bruce's+world)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcome+To+Bruce's+Github+World)
 
 ![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=dark)
 
@@ -8,9 +8,9 @@
 
 ## About Me
 
-- 🌱 I’m currently learning:Solidity,Go
-- 😄 hobby:🏸️Badminton🏀Basketball🚴Bicycle
-- ✈️ Globetrotter with travels to multiple countries🇨🇳🇭🇰🇯🇵
+- 🌱 I’m currently learning Solidity, Go
+- 😄 hobby:🏸️Badminton 🏀Basketball 🚴Bicycle
+- ✈️ Globetrotter with travels to 🇨🇳🇭🇰🇯🇵
 
 ## Work Exprience
 - Oct 2021 - Present: Senior Full-Stack Develper at AliYun. Hangzhou
