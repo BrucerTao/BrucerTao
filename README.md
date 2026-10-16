@@ -2,11 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👏Welcome+To+Bruce's+Github+World)
 
-![BrucerTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrucerTao&show_icons=true&theme=dark)
-
-💻 Full-Stack Developer
-
 ## About Me
+💻 Full-Stack Developer
 
 - 🌱 I’m currently learning Solidity, Go
 - 😄 hobby:🏸️Badminton 🏀Basketball 🚴Bicycle
